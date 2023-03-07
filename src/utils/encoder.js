@@ -94,7 +94,7 @@ function encrypUrl(protocol, url) {
 // Create a module to export.
 export default class Encoder {
     encode(protocol, url) {
-    	return 'https://webvpn.dlut.edu.cn' + encrypUrl(protocol, url);
+    	return 'https://vpn.csust.edu.cn' + encrypUrl(protocol, url);
 	}
 }
 

@@ -1,8 +1,8 @@
 {
-  "name": "webvpn4dut",
+  "name": "webvpn4csust",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cjhahaha.github.io/webvpn4dut",
+  "homepage": "https://breakingawful.github.io/webvpn4csust",
   "dependencies": {
     "@material-ui/core": "^4.9.0",
     "@material-ui/icons": "^4.5.1",
