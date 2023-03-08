@@ -2,6 +2,7 @@
   "name": "webvpn4csust",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://breakingawful.github.io/webvpn4csust",
   "dependencies": {
     "@material-ui/core": "^4.9.0",
     "@material-ui/icons": "^4.5.1",
@@ -10,7 +11,7 @@
     "@types/react": "^16.9.19",
     "@types/react-dom": "^16.9.5",
     "copy-to-clipboard": "^3.2.0",
-		"sass": "^1.52.3",
+    "sass": "^1.52.3",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "^5.0.1",
