@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webvpn4csust/static/css/main.302767c0.css",
+    "main.js": "/webvpn4csust/static/js/main.2f38ede4.js",
+    "index.html": "/webvpn4csust/index.html",
+    "main.302767c0.css.map": "/webvpn4csust/static/css/main.302767c0.css.map",
+    "main.2f38ede4.js.map": "/webvpn4csust/static/js/main.2f38ede4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.302767c0.css",
+    "static/js/main.2f38ede4.js"
+  ]
+}
