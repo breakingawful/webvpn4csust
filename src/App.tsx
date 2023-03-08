@@ -75,7 +75,7 @@ const App: FC = () => {
                     <Button
                         fullWidth
                         variant='contained'
-                        onClick={() => window.location.href = encode(proto, url)}
+                        onClick={() => window.open(encode(proto, url), '_blank')}
                     >
                         go!
                     </Button>
