@@ -17,6 +17,10 @@ CSUST WebVPN 用的也是这套系统，只需要将 WebVPN 的网址改成 `vpn
 
 [在线 demo](https://breakingawful.github.io/webvpn4csust) 。
 
+## API 接口
+
+试试 [https://vpn-url.vercel.app/api?https://cn.bing.com](https://vpn-url.vercel.app/api?https://cn.bing.com)。
+
 ## 项目结构
 
 这是一个简单的由 [Create React App](https://github.com/facebook/create-react-app) 和 typescript 创建的项目，UI 很简单，支持 dark mode。
